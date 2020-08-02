@@ -1,6 +1,6 @@
 Frontend:
 Netlify-------->https://focused-mirzakhani-cb167d.netlify.app/
-github-------->
+github-------->https://github.com/raj-vanamala/Customer-Relation-Management-FrontEnd
 
 Backend:
 heroku-------->https://focused-mirzakhani-cb167d.netlify.app/
